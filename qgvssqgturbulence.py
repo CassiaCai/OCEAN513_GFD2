@@ -7,8 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1arQ41tTeiTERwvrvNL1Vu08BCKVwWFb0
 
 # Kinetic energy spectrum in the interior QG vs SQG turbulence
-QG: Quasi-Geostrophic
-SQG = 
+
 Let's simulate the behavior of freely decaying ocean turbulence in the QG and SQG models and evaluate the fundamental difference in the partitioning of energy between different spatial scales of motion. 
 
 Specifically, let's compare the power-law exponents in the scaling of the kinetic energy spectrum with the wavenumber that develops in the inertial range.
